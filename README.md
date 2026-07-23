@@ -1,4 +1,3 @@
-# Inventory-CRM-System
 # Inventory & CRM System
 
 A command-driven inventory and customer relationship management (CRM) system written in C++, built for a hypothetical small business, **The Green Dragon Game House and Inn**.
